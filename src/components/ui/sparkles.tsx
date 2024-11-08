@@ -422,7 +422,7 @@ export const SparklesCore = (props: ParticlesProps) => {
                                 distance: 1,
                                 duration: 1,
                                 factor: 1,
-                                speed: 1,
+                                speed: 0.5,
                             },
                         },
                         detectRetina: true,
